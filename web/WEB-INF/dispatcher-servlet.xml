@@ -33,4 +33,7 @@
         </property>
         <property name="preparerFactoryClass" value="org.springframework.web.servlet.view.tiles3.SpringBeanPreparerFactory" />
     </bean>
+
+    <!-- NaverLoginBO Class에 대한 Bean설정 추가 -->
+    <bean id="naverLoginBO" class="com.port.lagarto.NaverLoginBO"/>
 </beans>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="def_KYHS:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/def_KYHS_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="def_KYHS/web/Web" />
+    </root>
+  </artifact>
+</component>
